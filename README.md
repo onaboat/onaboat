@@ -1,5 +1,5 @@
 
-⚓ Hi, I’m @onaboat ⚓
+⚓ Hi, I’m onaboat ⚓
 
 <!---
 onaboat/onaboat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
