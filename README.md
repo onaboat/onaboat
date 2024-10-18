@@ -1,7 +1,6 @@
 
 ⚓ Hi, I’m onaboat ⚓
-
-Generalist navigating diverse oceans of interest with passion
+A generalist, fueled by a passion to explore vast oceans of opportunity and discovery.
 
 <!---
 onaboat/onaboat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
