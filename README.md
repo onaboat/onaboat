@@ -1,7 +1,10 @@
 
 ⚓ Hi, I’m onaboat ⚓
 
-Fueled by a passion to dive deep into vast oceans of opportunity, unlocking endless possibilities
+Fueled by a passion to dive deep into vast oceans of opportunity, unlocking endless possibilities.
+
+SOLANA Hackathon winner. 
+Zeak Navigator placed in the ZK hackathon side quest. 
 
 <!---
 onaboat/onaboat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
