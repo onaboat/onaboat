@@ -1,7 +1,7 @@
 # ⚓ Hi, I’m Onaboat ⚓  
 ### Exploring the depths of innovation, unlocking endless possibilities.  
 
-A **Solana Hackathon winner** and **ZK Hackathon Side Quest finalist**, I thrive at the intersection of **AI, design, and code**—engineering seamless experiences that push the boundaries of decentralized technology.  
+I thrive at the intersection of **AI, design, and code**—engineering seamless experiences that push the boundaries of decentralized technology.  
 
 ---
 
