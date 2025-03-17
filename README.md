@@ -29,6 +29,9 @@ Many Solana users struggle with **visualizing, managing, and utilizing compresse
 
 💡 **Future Vision:** Expanding into **DeFi**, enabling **swaps, micropayments, and more** using compressed tokens, making Zeak Navigator a comprehensive hub for the Solana ecosystem.  
 
+🎥 **Watch the Demo:**  
+[![YouTube](https://img.shields.io/badge/Watch%20Demo-red?logo=youtube)](https://www.youtube.com/watch?v=nCI1vmcBLBY)  
+
 ---
 
 ### 💰 [Stablecoin – Stables.fun](https://stablefun-v2.vercel.app/) – Mint Stability, Backed by Real Assets  
@@ -40,7 +43,7 @@ Many Solana users struggle with **visualizing, managing, and utilizing compresse
 - 🏦 **Treasury-Powered Liquidity:** Stability backed by **government bonds & real-world assets**.  
 
 🎥 **Watch the Demo:**  
-[![YouTube](https://img.shields.io/badge/Watch%20Demo-red?logo=youtube)](https://www.youtube.com/watch?v=nCI1vmcBLBY)  
+[![YouTube](https://img.shields.io/badge/Watch%20Demo-red?logo=youtube)]([https://www.youtube.com/watch?v=nCI1vmcBLBY](https://www.youtube.com/watch?v=htvrvnL9AEA))  
 
 ---
 
