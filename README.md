@@ -15,6 +15,20 @@ A **Solana Hackathon winner** and **ZK Hackathon Side Quest finalist**, I thrive
 
 ## 🚀 Featured Projects  
 
+
+### 💰 [Stablecoin – Stables.fun](https://stablefun-v2.vercel.app/) – Mint Stability, Backed by Real Assets  
+
+**Stables.fun** bridges the gap between **traditional finance** and the **decentralized future**.  
+
+- 💰 **Savings Stablecoins:** Earn **6–12% APY** (projected) with **Etherfuse Stablebonds**, fueling a sustainable treasury.  
+- 🔄 **Everyday Stablecoins:** Instant minting & redemption, **1:1 backed** by real assets.  
+- 🏦 **Treasury-Powered Liquidity:** Stability backed by **government bonds & real-world assets**.  
+
+🎥 **Watch the Demo:**  
+[![YouTube](https://img.shields.io/badge/Watch%20Demo-red?logo=youtube)](https://www.youtube.com/watch?v=htvrvnL9AEA)
+
+---
+
 ### 🎯 [Zeak Navigator](https://zeaknavigator.vercel.app/) – Simplifying Compressed Token Management  
 
 Want to maximize your crypto assets effortlessly? **Zeak Navigator** makes **compressed token management** easy and accessible on **Solana (devnet)**.  
@@ -31,19 +45,6 @@ Many Solana users struggle with **visualizing, managing, and utilizing compresse
 
 🎥 **Watch the Demo:**  
 [![YouTube](https://img.shields.io/badge/Watch%20Demo-red?logo=youtube)](https://www.youtube.com/watch?v=nCI1vmcBLBY)  
-
----
-
-### 💰 [Stablecoin – Stables.fun](https://stablefun-v2.vercel.app/) – Mint Stability, Backed by Real Assets  
-
-**Stables.fun** bridges the gap between **traditional finance** and the **decentralized future**.  
-
-- 💰 **Savings Stablecoins:** Earn **6–12% APY** (projected) with **Etherfuse Stablebonds**, fueling a sustainable treasury.  
-- 🔄 **Everyday Stablecoins:** Instant minting & redemption, **1:1 backed** by real assets.  
-- 🏦 **Treasury-Powered Liquidity:** Stability backed by **government bonds & real-world assets**.  
-
-🎥 **Watch the Demo:**  
-[![YouTube](https://img.shields.io/badge/Watch%20Demo-red?logo=youtube)](https://www.youtube.com/watch?v=htvrvnL9AEA)
 
 ---
 
