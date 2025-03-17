@@ -43,7 +43,7 @@ Many Solana users struggle with **visualizing, managing, and utilizing compresse
 - 🏦 **Treasury-Powered Liquidity:** Stability backed by **government bonds & real-world assets**.  
 
 🎥 **Watch the Demo:**  
-[![YouTube](https://img.shields.io/badge/Watch%20Demo-red?logo=youtube)]([https://www.youtube.com/watch?v=nCI1vmcBLBY](https://www.youtube.com/watch?v=htvrvnL9AEA))  
+[![YouTube](https://img.shields.io/badge/Watch%20Demo-red?logo=youtube)](https://www.youtube.com/watch?v=htvrvnL9AEA)
 
 ---
 
