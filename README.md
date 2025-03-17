@@ -8,8 +8,8 @@ A **Solana Hackathon winner** and **ZK Hackathon Side Quest finalist**, I thrive
 ## 🏆 Achievements  
 
 - 🏅 **Solana Hackathon Winner**  
-- 🏅 **2nd Place - Solana Hackathon**  
-- 🏅 **ZK Hackathon Side Quest Finalist** *(Zeak Navigator)*  
+- 🏅 **ZK Hackathon Side Quest Finalist** *(Zeak Navigator)*
+- 🏅 **2nd Place - Stablecoin – Stables.fun**   
 
 ---
 
