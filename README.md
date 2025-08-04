@@ -7,7 +7,6 @@ I thrive at the intersection of **AI, design, and code**—engineering seamless 
 
 ## 🏆 Achievements  
 
-- 🏅 **Solana Hackathon Winner**  
 - 🏅 **ZK Hackathon Side Quest Finalist** *(Zeak Navigator)*
 - 🏅 **2nd Place - Stablecoin – Stables.fun**   
 
