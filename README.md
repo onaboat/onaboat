@@ -22,6 +22,19 @@ With a background spanning UX, engineering, and emerging tech, I lead projects e
 
 ## 🚀 Featured Projects  
 
+### ⚓ Xavra — What’s a Like Worth?
+
+A mobile-first video platform that tips the balance back to creators. Viewers tip to unlock content, directly supporting creators, instantly, and on-chain. Built for the Solana ecosystem and optimized for gasless, embedded wallet UX.
+
+- 👀 3-second preview → ❤️ Like → ⚡ Tip to unlock  
+- 💳 Frictionless support for creators using SOL, BONK, or sponsored tips  
+- 📱 Deep link + blink support for viral growth  
+- 🧠 Powered by Anchor smart contracts, PDA earnings, and relayer-based gasless flow
+
+[📲 Mobile App](https://github.com/onaboat/xavra2) · [🔗 Program](https://github.com/onaboat/xavraprogram) · [🌊 Relayer](https://github.com/onaboat/solana-relayer-server)
+
+---
+
 ### 💰 CNAB — Confidential DeFi Banking Prototype
 
 A concept neobank on Solana that lets users **spend stablecoins while their SOL earns yield privately**. CNAB reimagines everyday banking using on-chain confidentiality and gasless UX.
