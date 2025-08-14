@@ -1,22 +1,22 @@
 # ⚓ Hi, I’m Onaboat ⚓  
-### Exploring the depths of innovation, unlocking endless possibilities.  
+### Exploring the depths of innovation, unlocking endless possibilities.
 
-I thrive at the intersection of **AI, design, and code**—engineering seamless experiences that push the boundaries of decentralized technology. My work blends **product thinking**, **technical execution**, and **user-first design** 
+I thrive at the intersection of **AI, design, and code**—engineering seamless experiences that push the boundaries of decentralized technology. My work blends **product thinking**, **technical execution**, and **user-first design**.
 
 With a background spanning UX, engineering, and emerging tech, I lead projects end-to-end—from concept to delivery. I'm driven by user insights, guided by first-principles thinking, and grounded in execution.
 
 ---
 
-## Achievements  
+## 🏆 Achievements
 
 - 🏅 **ZK Hackathon Side Quest Finalist** *(Zeak Navigator)*
-- 🏅 **2nd Place - Stablecoin – Stables.fun**
+- 🥈 **2nd Place - Stablecoin – Stables.fun**
 - 🎓 **Turbin3 Builder – Advanced Track Graduate**
-- 🏆 **Asia Insurance Innovation Award**   
+- 🏆 **Asia Insurance Innovation Award**
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects
 
 ### ⚓ Xavra — What’s a Like Worth?
 
@@ -29,7 +29,7 @@ A mobile-first video platform that tips the balance back to creators. Viewers ti
 
 [📲 Mobile App](https://github.com/onaboat/xavra2) · [🔗 Program](https://github.com/onaboat/xavraprogram) · [🌊 Relayer](https://github.com/onaboat/solana-relayer-server)
 
-
+---
 
 ### 💰 CNAB — Confidential DeFi Banking Prototype
 
@@ -40,39 +40,40 @@ A concept neobank on Solana that lets users **spend stablecoins while their SOL 
 - ⚡ Frictionless UX: no wallet setup, no gas fees  
 - 🧭 Product focus: exploring feasibility, privacy, composability, and decentralized ID
 
-[🌐 Live Demo](https://cnab0.vercel.app/) 
+[🌐 Live Demo](https://cnab0.vercel.app/)
 
+---
 
+### 💰 [Stablecoin – Stables.fun](https://stablefun-v2.vercel.app/) – Mint Stability, Backed by Real Assets
 
-### 💰 [Stablecoin – Stables.fun](https://stablefun-v2.vercel.app/) – Mint Stability, Backed by Real Assets  
+**Stables.fun** bridges the gap between **traditional finance** and the **decentralized future**.
 
-**Stables.fun** bridges the gap between **traditional finance** and the **decentralized future**.  
-
-- 💰 **Savings Stablecoins:** Earn **6–12% APY** (projected) with **Etherfuse Stablebonds**, fueling a sustainable treasury.  
-- 🔄 **Everyday Stablecoins:** Instant minting & redemption, **1:1 backed** by real assets.  
-- 🏦 **Treasury-Powered Liquidity:** Stability backed by **government bonds & real-world assets**.  
+- 💰 **Savings Stablecoins:** Earn **6–12% APY** (projected) with **Etherfuse Stablebonds**, fueling a sustainable treasury  
+- 🔄 **Everyday Stablecoins:** Instant minting & redemption, **1:1 backed** by real assets  
+- 🏦 **Treasury-Powered Liquidity:** Stability backed by **government bonds & real-world assets**
 
 🎥 **Watch the Demo:**  
 [![YouTube](https://img.shields.io/badge/Watch%20Demo-red?logo=youtube)](https://www.youtube.com/watch?v=htvrvnL9AEA)
 
+---
 
+### 🎯 [Zeak Navigator](https://zeaknavigator.vercel.app/) – Simplifying Compressed Token Management
 
-### 🎯 [Zeak Navigator](https://zeaknavigator.vercel.app/) – Simplifying Compressed Token Management  
+**Zeak Navigator** makes **compressed token management** easy and accessible on **Solana (devnet)**.
 
-Want to maximize your crypto assets effortlessly? **Zeak Navigator** makes **compressed token management** easy and accessible on **Solana (devnet)**.  
+- 🔹 **Manage, Compress, and Explore** compressed tokens seamlessly  
+- 🔹 **Discover dApps** tailored to your wallet holdings  
+- 🔹 **One-click compression & decompression** for cost efficiency  
+- 🔹 **zkCompression-backed security** for optimal performance
 
-- 🔹 **Manage, Compress, and Explore** compressed tokens seamlessly.  
-- 🔹 **Discover dApps** tailored to your wallet holdings.  
-- 🔹 **One-click compression & decompression** for cost efficiency.  
-- 🔹 **zkCompression-backed security** for optimal performance.  
+#### 🔍 Why Zeak Navigator?
 
-#### 🔍 Why Zeak Navigator?  
-Many Solana users struggle with **visualizing, managing, and utilizing compressed tokens** effectively. As Solana adoption grows, so does the need for better tooling. **Zeak Navigator** simplifies the process, ensuring both **developers and non-developers** can fully leverage **zkCompression** for a better user experience.  
+Many Solana users struggle with **visualizing, managing, and utilizing compressed tokens** effectively. As Solana adoption grows, so does the need for better tooling. **Zeak Navigator** simplifies the process, ensuring both **developers and non-developers** can fully leverage **zkCompression** for a better user experience.
 
-💡 **Future Vision:** Expanding into **DeFi**, enabling **swaps, micropayments, and more** using compressed tokens, making Zeak Navigator a comprehensive hub for the Solana ecosystem.  
+💡 **Future Vision:** Expanding into **DeFi**, enabling **swaps, micropayments, and more** using compressed tokens, making Zeak Navigator a comprehensive hub for the Solana ecosystem.
 
 🎥 **Watch the Demo:**  
-[![YouTube](https://img.shields.io/badge/Watch%20Demo-red?logo=youtube)](https://www.youtube.com/watch?v=nCI1vmcBLBY)  
+[![YouTube](https://img.shields.io/badge/Watch%20Demo-red?logo=youtube)](https://www.youtube.com/watch?v=nCI1vmcBLBY)
 
 ---
 
@@ -83,8 +84,7 @@ Many Solana users struggle with **visualizing, managing, and utilizing compresse
 - **Frontend**: Next.js, TypeScript, TailwindCSS, UI/UX systems  
 - **Backend & Infra**: Node.js, GraphQL, Supabase/Firebase, API design  
 - **AI & Prototyping**: Generative AI (Cursor, GPT), wireframing automation, ChatGPT plugin workflows  
-- **Tooling**: Figma, Framer Motion, Storybook, Abstract, Maze, Lookback  
-
+- **Tooling**: Figma, Framer Motion, Storybook, Abstract, Maze, Lookback
 
 <!---
 onaboat/onaboat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
