@@ -1,19 +1,39 @@
 # ⚓ Hi, I’m Onaboat ⚓  
 ### Exploring the depths of innovation, unlocking endless possibilities.  
 
-I thrive at the intersection of **AI, design, and code**—engineering seamless experiences that push the boundaries of decentralized technology.  
+I thrive at the intersection of **AI, design, and code**—engineering seamless experiences that push the boundaries of decentralized technology. My work blends **product thinking**, **technical execution**, and **user-first design** 
 
 ---
 
-## 🏆 Achievements  
+Product Thinking
+
+With a background spanning UX, engineering, and emerging tech, I lead projects end-to-end—from concept to delivery. I'm driven by user insights, guided by first-principles thinking, and grounded in execution.
+
+---
+
+## Achievements  
 
 - 🏅 **ZK Hackathon Side Quest Finalist** *(Zeak Navigator)*
-- 🏅 **2nd Place - Stablecoin – Stables.fun**   
+- 🏅 **2nd Place - Stablecoin – Stables.fun**
+- 🎓 **Turbin3 Builder – Advanced Track Graduate**
+- 🏆 **Asia Insurance Innovation Award**   
 
 ---
 
 ## 🚀 Featured Projects  
 
+### 💰 CNAB — Confidential DeFi Banking Prototype
+
+A concept neobank on Solana that lets users **spend stablecoins while their SOL earns yield privately**. CNAB reimagines everyday banking using on-chain confidentiality and gasless UX.
+
+- 🔐 Built on Solana’s confidential token standard (Token-2022) + zkCompression  
+- 💳 Spend USDC while SOL remains vaulted and yield-bearing  
+- ⚡ Frictionless UX: no wallet setup, no gas fees  
+- 🧭 Product focus: exploring feasibility, privacy, composability, and decentralized ID
+
+[🌐 Live Demo](https://cnab0.vercel.app/) 
+
+---
 
 ### 💰 [Stablecoin – Stables.fun](https://stablefun-v2.vercel.app/) – Mint Stability, Backed by Real Assets  
 
@@ -47,20 +67,15 @@ Many Solana users struggle with **visualizing, managing, and utilizing compresse
 
 ---
 
-## 🛠️ Tech Stack & Skills  
+## 🛠️ Tech Stack & Skills
 
-- 💡 **Blockchain:** Solana, Anchor, zkCompression, zkProofs, Ethereum  
-- 💡 **AI & ML:** Data processing, automation, and optimization for blockchain use cases  
-- 💡 **Front-End:** Next.js, TypeScript, TailwindCSS  
-- 💡 **Back-End:** Rust, GraphQL, Node.js  
+- **Product & UX**: Design thinking, journey mapping, user testing, MVP delivery  
+- **Blockchain**: Solana, Anchor, zkCompression, zkProof concepts  
+- **Frontend**: Next.js, TypeScript, TailwindCSS, UI/UX systems  
+- **Backend & Infra**: Node.js, GraphQL, Supabase/Firebase, API design  
+- **AI & Prototyping**: Generative AI (Cursor, GPT), wireframing automation, ChatGPT plugin workflows  
+- **Tooling**: Figma, Framer Motion, Storybook, Abstract, Maze, Lookback  
 
-📌 Passionate about creating **scalable, efficient, and intuitive blockchain solutions**—from **stablecoin ecosystems** to **AI-driven on-chain automation**.  
-
----
-
-### 🌍 Let’s Build the Future  
-
-💬 Open to collaborations, consulting, and innovative projects in **Web3, AI, and decentralized finance**.  
 
 <!---
 onaboat/onaboat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
