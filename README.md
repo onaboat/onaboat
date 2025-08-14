@@ -3,8 +3,6 @@
 
 I thrive at the intersection of **AI, design, and code**—engineering seamless experiences that push the boundaries of decentralized technology. My work blends **product thinking**, **technical execution**, and **user-first design** 
 
-Product Thinking
-
 With a background spanning UX, engineering, and emerging tech, I lead projects end-to-end—from concept to delivery. I'm driven by user insights, guided by first-principles thinking, and grounded in execution.
 
 ---
