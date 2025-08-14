@@ -3,8 +3,6 @@
 
 I thrive at the intersection of **AI, design, and code**—engineering seamless experiences that push the boundaries of decentralized technology. My work blends **product thinking**, **technical execution**, and **user-first design** 
 
----
-
 Product Thinking
 
 With a background spanning UX, engineering, and emerging tech, I lead projects end-to-end—from concept to delivery. I'm driven by user insights, guided by first-principles thinking, and grounded in execution.
@@ -33,7 +31,7 @@ A mobile-first video platform that tips the balance back to creators. Viewers ti
 
 [📲 Mobile App](https://github.com/onaboat/xavra2) · [🔗 Program](https://github.com/onaboat/xavraprogram) · [🌊 Relayer](https://github.com/onaboat/solana-relayer-server)
 
----
+
 
 ### 💰 CNAB — Confidential DeFi Banking Prototype
 
@@ -46,7 +44,7 @@ A concept neobank on Solana that lets users **spend stablecoins while their SOL 
 
 [🌐 Live Demo](https://cnab0.vercel.app/) 
 
----
+
 
 ### 💰 [Stablecoin – Stables.fun](https://stablefun-v2.vercel.app/) – Mint Stability, Backed by Real Assets  
 
@@ -59,7 +57,7 @@ A concept neobank on Solana that lets users **spend stablecoins while their SOL 
 🎥 **Watch the Demo:**  
 [![YouTube](https://img.shields.io/badge/Watch%20Demo-red?logo=youtube)](https://www.youtube.com/watch?v=htvrvnL9AEA)
 
----
+
 
 ### 🎯 [Zeak Navigator](https://zeaknavigator.vercel.app/) – Simplifying Compressed Token Management  
 
