@@ -18,7 +18,7 @@ With a background spanning UX, engineering, and emerging tech, I lead projects e
 
 ## 🚀 Featured Projects
 
-### ⚓ Xavra — What’s a Like Worth?
+### 👀 Xavra — What’s a Like Worth?
 
 A mobile-first video platform that tips the balance back to creators. Viewers tip to unlock content, directly supporting creators, instantly, and on-chain. Built for the Solana ecosystem and optimized for gasless, embedded wallet UX.
 
