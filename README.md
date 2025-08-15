@@ -20,7 +20,7 @@ With a background spanning UX, engineering, and emerging tech, I lead projects e
 
 ### 👀 Xavra — What’s a Like Worth?
 
-A mobile-first video platform that tips the balance back to creators. Viewers tip to unlock content, directly supporting creators, instantly, and on-chain. Built for the Solana ecosystem and optimized for gasless, embedded wallet UX.
+A mobile-first video platform that tips the balance back to creators. Viewers tip to unlock content, directly supporting creators, instantly, and on-chain. Built for the Solana ecosystem and optimized for gasless, user experience.
 
 - 👀 3-second preview → ❤️ Like → ⚡ Tip to unlock  
 - 💳 Frictionless support for creators using SOL, BONK, or sponsored tips  
