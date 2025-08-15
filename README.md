@@ -24,7 +24,6 @@ A mobile-first video platform that tips the balance back to creators. Viewers ti
 
 - 👀 3-second preview → ❤️ Like → ⚡ Tip to unlock  
 - 💳 Frictionless support for creators using SOL, BONK, or sponsored tips  
-- 📱 Deep link + blink support for viral growth  
 - 🧠 Powered by Anchor smart contracts, PDA earnings, and relayer-based gasless flow
 
 [📲 Mobile App](https://github.com/onaboat/xavra2) · [🔗 Program](https://github.com/onaboat/xavraprogram) · [🌊 Relayer](https://github.com/onaboat/solana-relayer-server)
